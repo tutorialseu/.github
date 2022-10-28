@@ -24,5 +24,5 @@ Hello everybody! Here you can navigate throught our GitHub 👇
 
 
 
-[<img src="https://user-images.githubusercontent.com/18527947/198570099-cc34559b-7edd-4ffa-a2c4-bd6fd52c21a4.png" width="150">)(https://www.youtube.com/c/tutorialsEU)]
+[<img src="https://user-images.githubusercontent.com/18527947/198570099-cc34559b-7edd-4ffa-a2c4-bd6fd52c21a4.png" width="150"/>)(https://www.youtube.com/c/tutorialsEU)]
 
