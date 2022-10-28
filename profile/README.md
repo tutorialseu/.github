@@ -2,5 +2,6 @@
 
 Hello everybody! Here you can navigate throught our GitHub 👇
 
-| Course | Repo's name |
-|--------|-------------|
+| Course | Repo's name | Language |
+|--------|-------------|----------|
+| Tiny C# Projects | TutorialsEU_ChecksumChecker | C# |
