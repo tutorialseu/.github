@@ -4,7 +4,7 @@ Hello everybody! Here you can navigate throught our GitHub 👇
 
 | Course | Repo | Language |
 |--------|-------------|----------|
-| Progress Academy | [Flight booking portal](https://github.com/tutorialseu/ang-asp-21dc-flight-booking-portal) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> + <img src="https://user-images.githubusercontent.com/18527947/198565375-0644efef-d6cb-4cd3-9a67-b445529bb39d.jpg" width="50">|
+| Progress Academy | [Flight booking portal](https://github.com/tutorialseu/ang-asp-21dc-flight-booking-portal) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> + <img src="https://user-images.githubusercontent.com/18527947/198565807-83811c60-69a5-47a0-84c0-9341336bfc87.jpg" width="50">|
 | Tiny C# Projects | [TutorialsEU_ChecksumChecker](https://github.com/tutorialseu/TutorialsEU_ChecksumChecker) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> |
 | Tiny C# Projects | [TutorialsEU_DiffuseTheBomb](https://github.com/tutorialseu/TutorialsEU_DiffuseTheBomb) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> |
 | Tiny C# Projects | [TutorialsEU_GuessTheWord](https://github.com/tutorialseu/TutorialsEU_GuessTheWord) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> |
