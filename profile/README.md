@@ -4,4 +4,4 @@ Hello everybody! Here you can navigate throught our GitHub 👇
 
 | Course | Repo's name | Language |
 |--------|-------------|----------|
-| Tiny C# Projects | TutorialsEU_ChecksumChecker | C# |
+| Tiny C# Projects | [TutorialsEU_ChecksumChecker](https://github.com/tutorialseu/TutorialsEU_ChecksumChecker) | C# |
