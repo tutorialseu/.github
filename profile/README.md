@@ -4,8 +4,7 @@ Hello everybody! Here you can navigate throught our GitHub 👇
 
 | Course | Repo | Language |
 |--------|-------------|----------|
-| Progress Academy | [Flight booking portal](https://github.com/tutorialseu/ang-asp-21dc-flight-booking-portal) | ![c#logo](https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png)
- + TypeScript |
+| Progress Academy | [Flight booking portal](https://github.com/tutorialseu/ang-asp-21dc-flight-booking-portal) | ![c#logo](https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png) + TypeScript |
 | Tiny C# Projects | [TutorialsEU_ChecksumChecker](https://github.com/tutorialseu/TutorialsEU_ChecksumChecker) | C# |
 | Tiny C# Projects | [TutorialsEU_DiffuseTheBomb](https://github.com/tutorialseu/TutorialsEU_DiffuseTheBomb) | C# |
 | Tiny C# Projects | [TutorialsEU_GuessTheWord](https://github.com/tutorialseu/TutorialsEU_GuessTheWord) | C# |
