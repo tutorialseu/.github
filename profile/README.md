@@ -1,8 +1,6 @@
-[<img src="https://user-images.githubusercontent.com/18527947/199206327-a61e4cd8-d80a-45e9-8fe4-f000c5b31704.png" width="100%"/>](https://tutorials.eu/)
+[<img src="https://user-images.githubusercontent.com/18527947/199214321-47bc62fc-fadf-44f7-9398-2a77f8daec28.png" width="100%"/>](https://tutorials.eu/)
 
 Hello everybody! Here you can navigate throught our GitHub 👇
-
-
 
 
 
