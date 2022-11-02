@@ -5,11 +5,7 @@ Hello everybody! Welcome to our GitHub profile!
 Here you can find a lot of cool things.
 Like what? What about to get access to all our courses for one week for FREE?
 
-
-
 [![subs](https://user-images.githubusercontent.com/18527947/199472247-073b40d9-2d1e-4251-bb0f-0c01ecf7d90c.png)](https://tutorialseu.teachable.com/p/all-courses-access)
-
-
 
 
 Here you can navigate throught our GitHub 👇
