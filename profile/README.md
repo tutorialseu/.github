@@ -9,6 +9,7 @@ Here you can find a lot of cool things. Like our media nad courses:
 
 
 
+![discord-logo-logodownload-download-logotipos-1](https://user-images.githubusercontent.com/18527947/199469641-57b74730-0080-4840-b61e-ebb1e5acdcbb.png)
 
 
 
@@ -36,4 +37,5 @@ Follow us in social media and join our Discord Community!
 
 | [<img src="https://user-images.githubusercontent.com/18527947/198570099-cc34559b-7edd-4ffa-a2c4-bd6fd52c21a4.png" width="150"/>](https://www.youtube.com/c/tutorialsEU) 
 
-| [<img src="https://user-images.githubusercontent.com/18527947/199468845-9542044b-bfc4-4242-b015-d391dcb00ebf.png" width="150/>](https://discord.gg/gCwNS9SJ) |
+
+| [<img src="https://user-images.githubusercontent.com/18527947/199469641-57b74730-0080-4840-b61e-ebb1e5acdcbb.png" width="150/>](https://discord.gg/gCwNS9SJ) |
