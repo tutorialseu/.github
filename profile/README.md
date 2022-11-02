@@ -34,6 +34,5 @@ Here you can navigate throught our GitHub 👇
 | ASP.NET course | [Invoice Managment System](https://github.com/tutorialseu/ASP-NET-CORE-6.0-InvoiceManagementSystem) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> |
 
 Follow us in social media and join our Discord Community!
-| | |
-|-|-|
+
 | [<img src="https://user-images.githubusercontent.com/18527947/198570099-cc34559b-7edd-4ffa-a2c4-bd6fd52c21a4.png" width="150"/>](https://www.youtube.com/c/tutorialsEU) | [<img src="https://user-images.githubusercontent.com/18527947/199469641-57b74730-0080-4840-b61e-ebb1e5acdcbb.png" width="150"/>](https://discord.gg/gCwNS9SJ) |
