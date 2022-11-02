@@ -31,7 +31,7 @@ Here you can navigate throught our GitHub 👇
 | ASP.NET course | [PizzaApp](https://github.com/tutorialseu/ASP-NET-CORE-6-PizzaApp-RazorPages) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> |
 | ASP.NET course | [Invoice Managment System](https://github.com/tutorialseu/ASP-NET-CORE-6.0-InvoiceManagementSystem) | <img src="https://user-images.githubusercontent.com/18527947/198563703-6d70ff7b-78d0-432e-ac90-f13223ee051d.png" width="50"> |
 
-Follow us in social media and join our Discord Community!
+Follow us here and in other media. And don't forget about our Discord Community!
 
 
 
